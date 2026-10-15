@@ -1,0 +1,7 @@
+Metric,Value
+MAE reduction (%),12.325503089867206
+Worst group MAE (Observed),0.4895238095238096
+Worst group MAE (FairRate),0.3821304295590681
+Reputation std (FairRate),0.045486073233640664
+Reputation std (Observed),0.04763850525150579
+MAE reduction on trips with shift above 0.3 (%),26.458769013096052

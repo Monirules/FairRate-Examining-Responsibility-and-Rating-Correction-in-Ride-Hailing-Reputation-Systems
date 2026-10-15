@@ -1,0 +1,801 @@
+rider_id,rider_name,rider_gender,rider_age,rider_age_group,rider_borough,rider_tier,rider_personality
+RIDER_0000,Andre Johnson,male,60,senior,Queens,occasional,neutral
+RIDER_0001,Nathan White,male,33,middle,Manhattan,occasional,lenient
+RIDER_0002,Lakshmi Brown,female,51,senior,Manhattan,regular,neutral
+RIDER_0003,Fatima Edwards,female,46,middle,Brooklyn,regular,lenient
+RIDER_0004,Kai Lee,non-binary,20,young,Brooklyn,new,neutral
+RIDER_0005,Tamika Hill,female,38,middle,Manhattan,new,critical
+RIDER_0006,Aisha Johnson,female,22,young,Manhattan,regular,neutral
+RIDER_0007,Sarah Thomas,female,52,senior,Bronx,regular,neutral
+RIDER_0008,Omar Gonzalez,male,39,middle,Brooklyn,frequent,critical
+RIDER_0009,Vincent Johnson,male,21,young,Brooklyn,new,lenient
+RIDER_0010,Darren Chen,male,25,young,Bronx,occasional,neutral
+RIDER_0011,Hana Lopez,female,62,senior,Manhattan,occasional,lenient
+RIDER_0012,Casey Scott,non-binary,41,middle,Manhattan,frequent,lenient
+RIDER_0013,Tamika Clark,female,34,middle,Staten Island,occasional,critical
+RIDER_0014,Jessica Rogers,female,30,middle,Manhattan,regular,neutral
+RIDER_0015,Gabriela Collins,female,32,middle,Brooklyn,frequent,neutral
+RIDER_0016,Abigail Hall,female,43,middle,Brooklyn,occasional,neutral
+RIDER_0017,Nathan Davis,male,24,young,Brooklyn,occasional,neutral
+RIDER_0018,Kevin Rogers,male,44,middle,Queens,regular,lenient
+RIDER_0019,Antonio Kim,male,19,young,Queens,regular,lenient
+RIDER_0020,Wei King,male,21,young,Bronx,occasional,critical
+RIDER_0021,Fatima Allen,female,18,young,Manhattan,occasional,lenient
+RIDER_0022,Kwame Turner,male,23,young,Brooklyn,regular,lenient
+RIDER_0023,Yusuf Morgan,male,28,young,Manhattan,occasional,neutral
+RIDER_0024,David Sanchez,male,69,senior,Manhattan,occasional,neutral
+RIDER_0025,Jerome Carter,male,66,senior,Staten Island,regular,lenient
+RIDER_0026,Andre Ward,male,31,middle,Brooklyn,regular,neutral
+RIDER_0027,Danielle Lee,female,25,young,Manhattan,occasional,neutral
+RIDER_0028,Courtney Lewis,female,40,middle,Bronx,occasional,lenient
+RIDER_0029,Ananya Richardson,female,32,middle,Brooklyn,occasional,lenient
+RIDER_0030,Sofia Perez,female,24,young,Manhattan,occasional,neutral
+RIDER_0031,Ashley Stewart,female,29,young,Queens,regular,neutral
+RIDER_0032,Mei Williams,female,27,young,Staten Island,occasional,neutral
+RIDER_0033,Casey Reed,non-binary,54,senior,Bronx,occasional,neutral
+RIDER_0034,Jamal Lee,male,32,middle,Bronx,regular,critical
+RIDER_0035,Lakshmi Cooper,female,53,senior,Bronx,occasional,lenient
+RIDER_0036,Raj King,male,47,middle,Manhattan,occasional,neutral
+RIDER_0037,Svetlana Green,female,18,young,Manhattan,regular,lenient
+RIDER_0038,Sanjay Rodriguez,male,32,middle,Queens,occasional,lenient
+RIDER_0039,Sanjay Allen,male,23,young,Staten Island,regular,critical
+RIDER_0040,Kevin Evans,male,18,young,Brooklyn,regular,lenient
+RIDER_0041,Svetlana Collins,female,20,young,Queens,frequent,critical
+RIDER_0042,Mohammed Turner,male,23,young,Brooklyn,frequent,critical
+RIDER_0043,Tomás Carter,male,52,senior,Staten Island,frequent,neutral
+RIDER_0044,Diego Rodriguez,male,20,young,Manhattan,occasional,critical
+RIDER_0045,Kiara King,female,47,middle,Queens,new,lenient
+RIDER_0046,Svetlana Ward,female,66,senior,Bronx,frequent,neutral
+RIDER_0047,Courtney Jackson,female,27,young,Bronx,new,critical
+RIDER_0048,Jasmine Murphy,female,42,middle,Manhattan,frequent,neutral
+RIDER_0049,Carlos Jackson,male,64,senior,Brooklyn,frequent,neutral
+RIDER_0050,David Morgan,male,46,middle,Manhattan,occasional,neutral
+RIDER_0051,Luis Wright,male,41,middle,Staten Island,regular,critical
+RIDER_0052,Nathan Martinez,male,32,middle,Queens,occasional,critical
+RIDER_0053,Tanya Howard,female,18,young,Brooklyn,regular,neutral
+RIDER_0054,Kofi Richardson,male,24,young,Brooklyn,occasional,lenient
+RIDER_0055,Jasmine Thomas,female,45,middle,Manhattan,new,neutral
+RIDER_0056,Carmen Wright,female,34,middle,Queens,regular,lenient
+RIDER_0057,Jerome Davis,male,43,middle,Manhattan,frequent,neutral
+RIDER_0058,Quinn Brown,non-binary,27,young,Queens,occasional,neutral
+RIDER_0059,Diego Morris,male,39,middle,Staten Island,new,neutral
+RIDER_0060,Darren Carter,male,50,senior,Brooklyn,occasional,neutral
+RIDER_0061,Aaliyah Morris,female,69,senior,Brooklyn,regular,neutral
+RIDER_0062,Tariq Hill,male,34,middle,Queens,occasional,neutral
+RIDER_0063,Tariq Wright,male,29,young,Manhattan,frequent,lenient
+RIDER_0064,Sofia Jackson,female,25,young,Brooklyn,occasional,neutral
+RIDER_0065,Marcus Gonzalez,male,47,middle,Queens,new,neutral
+RIDER_0066,Carmen Lee,female,27,young,Brooklyn,occasional,neutral
+RIDER_0067,Priya Cooper,female,18,young,Queens,regular,critical
+RIDER_0068,Keisha Davis,female,42,middle,Queens,regular,neutral
+RIDER_0069,Gabriela Cook,female,42,middle,Bronx,regular,lenient
+RIDER_0070,Abigail Turner,female,24,young,Staten Island,occasional,neutral
+RIDER_0071,Mei King,female,22,young,Manhattan,regular,neutral
+RIDER_0072,Danielle Turner,female,36,middle,Manhattan,regular,lenient
+RIDER_0073,Kiara Nelson,female,40,middle,Queens,new,neutral
+RIDER_0074,Aaliyah Mitchell,female,55,senior,Manhattan,occasional,lenient
+RIDER_0075,Jessica Edwards,female,34,middle,Brooklyn,regular,neutral
+RIDER_0076,Keisha Edwards,female,66,senior,Staten Island,new,critical
+RIDER_0077,Trevor Rogers,male,29,young,Brooklyn,regular,critical
+RIDER_0078,Nathan Reed,male,42,middle,Brooklyn,occasional,neutral
+RIDER_0079,Linda Patel,female,56,senior,Queens,occasional,critical
+RIDER_0080,Jamal Hill,male,25,young,Brooklyn,regular,critical
+RIDER_0081,Riley Green,non-binary,44,middle,Bronx,occasional,critical
+RIDER_0082,James Sanchez,male,49,middle,Manhattan,regular,lenient
+RIDER_0083,Yusuf Gonzalez,male,71,senior,Brooklyn,new,lenient
+RIDER_0084,Hiroshi Gonzalez,male,57,senior,Brooklyn,frequent,neutral
+RIDER_0085,Raj Cooper,male,37,middle,Brooklyn,occasional,lenient
+RIDER_0086,Quinn Murphy,non-binary,71,senior,Manhattan,regular,neutral
+RIDER_0087,Destiny Turner,female,20,young,Bronx,new,neutral
+RIDER_0088,Ashley Davis,female,47,middle,Brooklyn,regular,neutral
+RIDER_0089,Sofia Rogers,female,44,middle,Manhattan,occasional,neutral
+RIDER_0090,Riley Carter,non-binary,62,senior,Manhattan,frequent,lenient
+RIDER_0091,Roberto Howard,male,29,young,Bronx,new,critical
+RIDER_0092,Jessica Turner,female,34,middle,Queens,regular,lenient
+RIDER_0093,Luis Baker,male,21,young,Manhattan,occasional,neutral
+RIDER_0094,Michael Patel,male,27,young,Brooklyn,regular,critical
+RIDER_0095,Sanjay Richardson,male,61,senior,Brooklyn,new,neutral
+RIDER_0096,Ethan White,male,22,young,Queens,occasional,lenient
+RIDER_0097,Carlos White,male,23,young,Queens,occasional,neutral
+RIDER_0098,Kofi Lee,male,35,middle,Brooklyn,new,neutral
+RIDER_0099,Sarah Sanchez,female,33,middle,Brooklyn,occasional,critical
+RIDER_0100,Malik Bell,male,23,young,Brooklyn,regular,neutral
+RIDER_0101,Mohammed Rogers,male,26,young,Brooklyn,occasional,neutral
+RIDER_0102,Hana Reed,female,21,young,Manhattan,new,neutral
+RIDER_0103,Yuki Brown,female,27,young,Manhattan,occasional,neutral
+RIDER_0104,Aiden Mitchell,male,23,young,Manhattan,regular,lenient
+RIDER_0105,Tomás Harris,male,42,middle,Manhattan,frequent,neutral
+RIDER_0106,Rachel Cooper,female,40,middle,Staten Island,frequent,neutral
+RIDER_0107,Megan Hill,female,49,middle,Manhattan,regular,neutral
+RIDER_0108,Tanya Ward,female,25,young,Queens,frequent,lenient
+RIDER_0109,Trevor Rogers 109,male,43,middle,Queens,frequent,critical
+RIDER_0110,Brian Stewart,male,26,young,Queens,regular,neutral
+RIDER_0111,Brittany Wright,female,29,young,Manhattan,regular,neutral
+RIDER_0112,Sanjay Scott,male,47,middle,Manhattan,occasional,neutral
+RIDER_0113,Rachel Scott,female,48,middle,Brooklyn,regular,critical
+RIDER_0114,Keisha White,female,28,young,Staten Island,occasional,lenient
+RIDER_0115,Omar Martinez,male,24,young,Brooklyn,new,lenient
+RIDER_0116,Linda Johnson,female,26,young,Manhattan,occasional,neutral
+RIDER_0117,Dakota Mitchell,non-binary,19,young,Brooklyn,new,lenient
+RIDER_0118,Casey Roberts,non-binary,35,middle,Queens,new,neutral
+RIDER_0119,Lakshmi Smith,female,29,young,Manhattan,new,neutral
+RIDER_0120,Mohammed Stewart,male,41,middle,Manhattan,occasional,neutral
+RIDER_0121,Priya Jackson,female,21,young,Manhattan,occasional,neutral
+RIDER_0122,Mohammed Cox,male,39,middle,Staten Island,regular,critical
+RIDER_0123,David Cooper,male,46,middle,Manhattan,regular,neutral
+RIDER_0124,Linda Martinez,female,22,young,Bronx,new,lenient
+RIDER_0125,Destiny White,female,61,senior,Brooklyn,new,neutral
+RIDER_0126,Nathan Evans,male,40,middle,Queens,regular,lenient
+RIDER_0127,Malik Thomas,male,63,senior,Brooklyn,regular,critical
+RIDER_0128,Trevor Brown,male,56,senior,Queens,new,neutral
+RIDER_0129,Ines Perez,female,30,middle,Manhattan,new,neutral
+RIDER_0130,Nadia White,female,68,senior,Brooklyn,regular,neutral
+RIDER_0131,Nadia Morgan,female,49,middle,Queens,occasional,neutral
+RIDER_0132,Xiaoli Chen,female,35,middle,Queens,occasional,critical
+RIDER_0133,Raj Kim,male,19,young,Queens,new,neutral
+RIDER_0134,Abigail Allen,female,21,young,Brooklyn,occasional,neutral
+RIDER_0135,Abigail Lopez,female,33,middle,Queens,occasional,neutral
+RIDER_0136,Kiara Cooper,female,40,middle,Brooklyn,occasional,critical
+RIDER_0137,Carlos Edwards,male,24,young,Brooklyn,new,lenient
+RIDER_0138,Fatima Garcia,female,30,middle,Manhattan,new,critical
+RIDER_0139,Monique Sanchez,female,34,middle,Queens,regular,neutral
+RIDER_0140,Linda Morgan,female,43,middle,Staten Island,new,neutral
+RIDER_0141,Raj White,male,63,senior,Manhattan,occasional,neutral
+RIDER_0142,Brian Chen,male,22,young,Brooklyn,occasional,lenient
+RIDER_0143,Hana Scott,female,32,middle,Brooklyn,occasional,critical
+RIDER_0144,Marcus Hill,male,19,young,Bronx,occasional,lenient
+RIDER_0145,Ngozi Clark,female,26,young,Brooklyn,regular,critical
+RIDER_0146,Jerome White,male,47,middle,Queens,regular,critical
+RIDER_0147,Mohammed Scott,male,37,middle,Brooklyn,occasional,lenient
+RIDER_0148,Courtney Kim,female,20,young,Manhattan,regular,neutral
+RIDER_0149,Carlos Parker,male,68,senior,Manhattan,occasional,neutral
+RIDER_0150,Hana Murphy,female,47,middle,Brooklyn,occasional,lenient
+RIDER_0151,James Lee,male,20,young,Brooklyn,regular,neutral
+RIDER_0152,Diego Rodriguez 152,male,29,young,Bronx,new,neutral
+RIDER_0153,Xiaoli Baker,female,24,young,Queens,frequent,lenient
+RIDER_0154,Nadia Thomas,female,18,young,Brooklyn,occasional,critical
+RIDER_0155,Sage Cox,non-binary,43,middle,Bronx,regular,neutral
+RIDER_0156,Carlos Rodriguez,male,19,young,Manhattan,frequent,lenient
+RIDER_0157,Dmitri Smith,male,21,young,Queens,occasional,critical
+RIDER_0158,Danielle Harris,female,19,young,Brooklyn,frequent,critical
+RIDER_0159,Jerome Lewis,male,38,middle,Brooklyn,regular,critical
+RIDER_0160,Abigail Collins,female,27,young,Brooklyn,new,neutral
+RIDER_0161,Darren Evans,male,46,middle,Manhattan,occasional,neutral
+RIDER_0162,Malik Davis,male,28,young,Brooklyn,frequent,critical
+RIDER_0163,Ashley Lewis,female,35,middle,Bronx,frequent,neutral
+RIDER_0164,Kevin Garcia,male,35,middle,Bronx,regular,lenient
+RIDER_0165,Tariq Morris,male,55,senior,Queens,regular,neutral
+RIDER_0166,Hana Garcia,female,46,middle,Brooklyn,regular,neutral
+RIDER_0167,Luis Garcia,male,28,young,Manhattan,frequent,critical
+RIDER_0168,Carlos Roberts,male,60,senior,Brooklyn,occasional,neutral
+RIDER_0169,Nadia Gonzalez,female,44,middle,Staten Island,frequent,neutral
+RIDER_0170,Roberto Rodriguez,male,48,middle,Brooklyn,frequent,neutral
+RIDER_0171,Priya Gonzalez,female,27,young,Brooklyn,regular,neutral
+RIDER_0172,Wei Rivera,male,37,middle,Brooklyn,regular,critical
+RIDER_0173,Ngozi Martinez,female,35,middle,Brooklyn,regular,lenient
+RIDER_0174,Megan Martinez,female,27,young,Queens,occasional,lenient
+RIDER_0175,Casey Wright,non-binary,46,middle,Queens,occasional,critical
+RIDER_0176,Andre Richardson,male,44,middle,Queens,frequent,neutral
+RIDER_0177,Kofi White,male,46,middle,Manhattan,occasional,critical
+RIDER_0178,Tariq Turner,male,38,middle,Manhattan,frequent,neutral
+RIDER_0179,Aisha Phillips,female,49,middle,Bronx,regular,critical
+RIDER_0180,Wei Lopez,male,32,middle,Brooklyn,regular,critical
+RIDER_0181,Tamika Perez,female,41,middle,Brooklyn,occasional,neutral
+RIDER_0182,Rachel Walker,female,30,middle,Bronx,occasional,lenient
+RIDER_0183,Yusuf Thomas,male,72,senior,Manhattan,regular,critical
+RIDER_0184,Luis White,male,18,young,Brooklyn,regular,neutral
+RIDER_0185,Aaliyah Wright,female,59,senior,Manhattan,regular,neutral
+RIDER_0186,Yuki Evans,female,25,young,Manhattan,regular,lenient
+RIDER_0187,Ethan Green,male,26,young,Manhattan,regular,lenient
+RIDER_0188,Avery Ward,non-binary,34,middle,Manhattan,regular,critical
+RIDER_0189,Mei Smith,female,42,middle,Staten Island,occasional,lenient
+RIDER_0190,Jerome Phillips,male,71,senior,Queens,occasional,lenient
+RIDER_0191,Kofi Kim,male,18,young,Staten Island,occasional,critical
+RIDER_0192,Mei Carter,female,26,young,Staten Island,new,lenient
+RIDER_0193,Kevin Gonzalez,male,46,middle,Manhattan,occasional,lenient
+RIDER_0194,Yusuf Brown,male,38,middle,Bronx,new,neutral
+RIDER_0195,Kwame Richardson,male,26,young,Manhattan,new,lenient
+RIDER_0196,Mohammed Richardson,male,60,senior,Manhattan,regular,neutral
+RIDER_0197,Diego Young,male,47,middle,Manhattan,regular,neutral
+RIDER_0198,Jamal Rodriguez,male,57,senior,Bronx,occasional,critical
+RIDER_0199,Zara Murphy,female,37,middle,Brooklyn,regular,critical
+RIDER_0200,Hana Stewart,female,30,middle,Manhattan,regular,neutral
+RIDER_0201,Ethan Phillips,male,53,senior,Queens,occasional,lenient
+RIDER_0202,Rachel Smith,female,68,senior,Bronx,frequent,critical
+RIDER_0203,Darren Robinson,male,67,senior,Bronx,occasional,neutral
+RIDER_0204,Raj Richardson,male,28,young,Staten Island,occasional,neutral
+RIDER_0205,Yuki Harris,female,32,middle,Manhattan,regular,lenient
+RIDER_0206,Andre Richardson 206,male,64,senior,Staten Island,frequent,critical
+RIDER_0207,Fatima Morris,female,28,young,Manhattan,occasional,neutral
+RIDER_0208,Darren Davis,male,25,young,Manhattan,new,critical
+RIDER_0209,Quinn Lewis,non-binary,32,middle,Brooklyn,regular,lenient
+RIDER_0210,Megan Thomas,female,20,young,Manhattan,frequent,lenient
+RIDER_0211,Antonio Thomas,male,52,senior,Brooklyn,regular,critical
+RIDER_0212,Aaliyah Gonzalez,female,19,young,Queens,regular,lenient
+RIDER_0213,Carmen Harris,female,73,senior,Brooklyn,new,neutral
+RIDER_0214,Priya Lee,female,26,young,Brooklyn,regular,neutral
+RIDER_0215,Abigail Murphy,female,32,middle,Manhattan,occasional,neutral
+RIDER_0216,Svetlana Williams,female,37,middle,Manhattan,regular,lenient
+RIDER_0217,James Hall,male,47,middle,Queens,occasional,lenient
+RIDER_0218,Marcus Campbell,male,52,senior,Manhattan,regular,lenient
+RIDER_0219,Aaliyah Rodriguez,female,49,middle,Brooklyn,regular,neutral
+RIDER_0220,Tyler Mitchell,male,31,middle,Queens,regular,neutral
+RIDER_0221,Samuel Mitchell,male,19,young,Brooklyn,occasional,neutral
+RIDER_0222,Jessica Patel,female,55,senior,Bronx,occasional,neutral
+RIDER_0223,Mohammed Richardson 223,male,23,young,Queens,occasional,neutral
+RIDER_0224,Ivan Carter,male,19,young,Brooklyn,new,lenient
+RIDER_0225,Aisha Murphy,female,24,young,Manhattan,occasional,neutral
+RIDER_0226,Sofia Roberts,female,24,young,Queens,new,lenient
+RIDER_0227,Courtney Davis,female,38,middle,Manhattan,occasional,neutral
+RIDER_0228,Abigail Brown,female,49,middle,Manhattan,occasional,lenient
+RIDER_0229,Aisha Robinson,female,32,middle,Manhattan,regular,neutral
+RIDER_0230,Sofia Cox,female,41,middle,Manhattan,new,lenient
+RIDER_0231,Jordan Cox,non-binary,25,young,Bronx,regular,lenient
+RIDER_0232,Kwame Thomas,male,20,young,Manhattan,new,critical
+RIDER_0233,Rosa Evans,female,20,young,Manhattan,regular,lenient
+RIDER_0234,Fatima Allen 234,female,22,young,Queens,occasional,neutral
+RIDER_0235,Darren Richardson,male,21,young,Brooklyn,occasional,neutral
+RIDER_0236,Xiaoli Phillips,female,19,young,Brooklyn,new,critical
+RIDER_0237,Ivan Ward,male,20,young,Manhattan,regular,neutral
+RIDER_0238,Diego Cooper,male,50,senior,Manhattan,occasional,critical
+RIDER_0239,Tomás Morgan,male,19,young,Manhattan,new,neutral
+RIDER_0240,Hiroshi Richardson,male,64,senior,Brooklyn,occasional,neutral
+RIDER_0241,Patrick Johnson,male,31,middle,Bronx,frequent,neutral
+RIDER_0242,Ngozi Morris,female,24,young,Brooklyn,regular,lenient
+RIDER_0243,Antonio Cook,male,39,middle,Queens,frequent,neutral
+RIDER_0244,Xiaoli Morgan,female,74,senior,Manhattan,regular,lenient
+RIDER_0245,Rosa Clark,female,34,middle,Queens,occasional,neutral
+RIDER_0246,Gabriela Cook 246,female,49,middle,Manhattan,frequent,neutral
+RIDER_0247,Fatima King,female,24,young,Manhattan,regular,lenient
+RIDER_0248,David Rivera,male,41,middle,Manhattan,new,critical
+RIDER_0249,Aiden Jackson,male,67,senior,Staten Island,occasional,neutral
+RIDER_0250,Ashley Bell,female,23,young,Manhattan,frequent,neutral
+RIDER_0251,Kiara Allen,female,24,young,Manhattan,regular,neutral
+RIDER_0252,Ethan Bell,male,23,young,Manhattan,occasional,critical
+RIDER_0253,Omar Jackson,male,19,young,Queens,new,neutral
+RIDER_0254,Michael Evans,male,63,senior,Bronx,occasional,critical
+RIDER_0255,Ashley Wright,female,38,middle,Manhattan,occasional,critical
+RIDER_0256,Antonio Clark,male,58,senior,Staten Island,occasional,lenient
+RIDER_0257,Mohammed Reed,male,19,young,Brooklyn,regular,neutral
+RIDER_0258,Svetlana Allen,female,38,middle,Manhattan,new,neutral
+RIDER_0259,Chen Wright,male,44,middle,Queens,occasional,neutral
+RIDER_0260,Trevor Hall,male,30,middle,Manhattan,regular,lenient
+RIDER_0261,Michael Patel 261,male,43,middle,Queens,occasional,neutral
+RIDER_0262,Aaliyah Wilson,female,51,senior,Brooklyn,frequent,neutral
+RIDER_0263,Tariq Harris,male,22,young,Manhattan,regular,neutral
+RIDER_0264,Aisha Kim,female,41,middle,Staten Island,frequent,lenient
+RIDER_0265,Vincent Hill,male,44,middle,Manhattan,new,lenient
+RIDER_0266,Amara Sanchez,female,19,young,Manhattan,occasional,neutral
+RIDER_0267,Jasmine Hill,female,52,senior,Brooklyn,frequent,neutral
+RIDER_0268,Vincent Gonzalez,male,74,senior,Brooklyn,frequent,critical
+RIDER_0269,Keisha King,female,25,young,Queens,regular,critical
+RIDER_0270,Kofi Chen,male,23,young,Brooklyn,frequent,neutral
+RIDER_0271,Quinn Williams,non-binary,38,middle,Queens,occasional,lenient
+RIDER_0272,Samuel Smith,male,73,senior,Brooklyn,regular,critical
+RIDER_0273,Roberto Ward,male,56,senior,Queens,frequent,neutral
+RIDER_0274,Trevor Edwards,male,44,middle,Manhattan,new,neutral
+RIDER_0275,Ashley Young,female,22,young,Queens,occasional,neutral
+RIDER_0276,Samuel Martinez,male,26,young,Brooklyn,new,lenient
+RIDER_0277,Linda Phillips,female,36,middle,Queens,frequent,neutral
+RIDER_0278,Jasmine Evans,female,35,middle,Brooklyn,regular,lenient
+RIDER_0279,Andre Sanchez,male,52,senior,Brooklyn,regular,neutral
+RIDER_0280,Brittany Gonzalez,female,31,middle,Queens,frequent,neutral
+RIDER_0281,Ethan Evans,male,32,middle,Brooklyn,regular,neutral
+RIDER_0282,Xiaoli Walker,female,51,senior,Brooklyn,new,neutral
+RIDER_0283,Hassan Collins,male,33,middle,Staten Island,occasional,critical
+RIDER_0284,Jamal Mitchell,male,45,middle,Manhattan,regular,critical
+RIDER_0285,Marcus Chen,male,24,young,Brooklyn,regular,critical
+RIDER_0286,Xiaoli Evans,female,49,middle,Queens,frequent,critical
+RIDER_0287,Dmitri Edwards,male,55,senior,Manhattan,frequent,lenient
+RIDER_0288,Hiroshi Phillips,male,26,young,Manhattan,new,neutral
+RIDER_0289,Kofi Robinson,male,24,young,Staten Island,new,lenient
+RIDER_0290,Monique Mitchell,female,34,middle,Brooklyn,occasional,neutral
+RIDER_0291,Jessica Robinson,female,39,middle,Bronx,occasional,critical
+RIDER_0292,Jamal Thomas,male,22,young,Manhattan,regular,lenient
+RIDER_0293,Sage Cook,non-binary,39,middle,Bronx,frequent,critical
+RIDER_0294,Tamika Turner,female,43,middle,Bronx,occasional,neutral
+RIDER_0295,Avery Green,non-binary,62,senior,Brooklyn,frequent,lenient
+RIDER_0296,Tyler Scott,male,61,senior,Staten Island,regular,neutral
+RIDER_0297,Tanya Gonzalez,female,35,middle,Manhattan,frequent,neutral
+RIDER_0298,Aiden Cook,male,22,young,Queens,regular,lenient
+RIDER_0299,Riley Evans,non-binary,25,young,Manhattan,regular,lenient
+RIDER_0300,Wei Lewis,male,43,middle,Manhattan,occasional,lenient
+RIDER_0301,Destiny Evans,female,66,senior,Manhattan,regular,lenient
+RIDER_0302,Ananya Hall,female,67,senior,Manhattan,new,neutral
+RIDER_0303,Wei Bell,male,29,young,Brooklyn,regular,neutral
+RIDER_0304,Casey Edwards,non-binary,28,young,Brooklyn,occasional,neutral
+RIDER_0305,Brittany Jackson,female,22,young,Manhattan,frequent,lenient
+RIDER_0306,Casey Davis,non-binary,62,senior,Manhattan,regular,neutral
+RIDER_0307,Maria Williams,female,33,middle,Bronx,regular,neutral
+RIDER_0308,Rosa Adams,female,35,middle,Brooklyn,new,lenient
+RIDER_0309,Alex Rivera,male,38,middle,Queens,regular,neutral
+RIDER_0310,Mei Green,female,29,young,Queens,occasional,neutral
+RIDER_0311,Patrick Richardson,male,46,middle,Queens,frequent,neutral
+RIDER_0312,Kofi Chen 312,male,30,middle,Brooklyn,frequent,lenient
+RIDER_0313,Danielle Baker,female,48,middle,Manhattan,frequent,critical
+RIDER_0314,Monique White,female,21,young,Manhattan,occasional,neutral
+RIDER_0315,Ivan Parker,male,22,young,Brooklyn,occasional,lenient
+RIDER_0316,James Cox,male,29,young,Bronx,occasional,lenient
+RIDER_0317,Taylor Reed,non-binary,32,middle,Manhattan,occasional,critical
+RIDER_0318,Abigail Jackson,female,47,middle,Manhattan,frequent,neutral
+RIDER_0319,Hiroshi Morgan,male,45,middle,Bronx,occasional,lenient
+RIDER_0320,Roberto Green,male,72,senior,Manhattan,regular,neutral
+RIDER_0321,Carlos Mitchell,male,21,young,Manhattan,frequent,lenient
+RIDER_0322,Rosa Howard,female,32,middle,Queens,regular,critical
+RIDER_0323,Andre Green,male,42,middle,Manhattan,new,neutral
+RIDER_0324,Yuki Morgan,female,28,young,Manhattan,occasional,neutral
+RIDER_0325,Kiara Evans,female,31,middle,Manhattan,occasional,critical
+RIDER_0326,Roberto Mitchell,male,41,middle,Queens,occasional,neutral
+RIDER_0327,Megan Walker,female,20,young,Manhattan,frequent,neutral
+RIDER_0328,Zara Phillips,female,37,middle,Brooklyn,frequent,lenient
+RIDER_0329,Destiny Hill,female,57,senior,Manhattan,new,neutral
+RIDER_0330,Darren Scott,male,43,middle,Queens,regular,neutral
+RIDER_0331,Gabriela Morris,female,39,middle,Queens,frequent,neutral
+RIDER_0332,Aiden Scott,male,74,senior,Queens,occasional,critical
+RIDER_0333,Yusuf Rogers,male,33,middle,Brooklyn,occasional,critical
+RIDER_0334,Diego Murphy,male,23,young,Brooklyn,occasional,lenient
+RIDER_0335,Svetlana Reed,female,26,young,Brooklyn,regular,critical
+RIDER_0336,Rachel Baker,female,34,middle,Brooklyn,occasional,neutral
+RIDER_0337,Rosa Clark 337,female,47,middle,Queens,frequent,neutral
+RIDER_0338,Zara Martinez,female,25,young,Manhattan,occasional,neutral
+RIDER_0339,Chloe White,female,45,middle,Brooklyn,frequent,neutral
+RIDER_0340,Nathan Hall,male,18,young,Brooklyn,occasional,critical
+RIDER_0341,Jasmine Cox,female,46,middle,Queens,regular,lenient
+RIDER_0342,Hana Lee,female,60,senior,Queens,new,lenient
+RIDER_0343,Yuki Davis,female,52,senior,Manhattan,frequent,critical
+RIDER_0344,Omar King,male,42,middle,Queens,frequent,critical
+RIDER_0345,Ivan Stewart,male,22,young,Brooklyn,regular,critical
+RIDER_0346,Tanya Martinez,female,36,middle,Bronx,new,critical
+RIDER_0347,Patrick Lopez,male,29,young,Manhattan,regular,critical
+RIDER_0348,Antonio Carter,male,25,young,Manhattan,regular,neutral
+RIDER_0349,Jerome Lopez,male,73,senior,Staten Island,regular,neutral
+RIDER_0350,Priya Thomas,female,26,young,Brooklyn,frequent,lenient
+RIDER_0351,Xiaoli King,female,21,young,Manhattan,occasional,lenient
+RIDER_0352,Tariq Collins,male,40,middle,Staten Island,occasional,critical
+RIDER_0353,Michael Rivera,male,43,middle,Queens,new,neutral
+RIDER_0354,Ines King,female,25,young,Manhattan,regular,critical
+RIDER_0355,Rowan Smith,non-binary,18,young,Manhattan,regular,neutral
+RIDER_0356,Amara Robinson,female,46,middle,Staten Island,regular,neutral
+RIDER_0357,Danielle Rivera,female,46,middle,Brooklyn,frequent,neutral
+RIDER_0358,Xiaoli Carter,female,19,young,Queens,regular,lenient
+RIDER_0359,Hana Morgan,female,36,middle,Brooklyn,frequent,neutral
+RIDER_0360,Megan Cox,female,48,middle,Queens,regular,neutral
+RIDER_0361,Omar Baker,male,21,young,Brooklyn,regular,critical
+RIDER_0362,Lakshmi Clark,female,58,senior,Brooklyn,occasional,neutral
+RIDER_0363,Abigail Baker,female,20,young,Bronx,occasional,neutral
+RIDER_0364,Michael King,male,47,middle,Manhattan,regular,lenient
+RIDER_0365,Antonio Evans,male,29,young,Queens,occasional,neutral
+RIDER_0366,Monique Sanchez 366,female,25,young,Brooklyn,regular,neutral
+RIDER_0367,Tomás Murphy,male,42,middle,Bronx,regular,critical
+RIDER_0368,Jerome Howard,male,25,young,Bronx,occasional,lenient
+RIDER_0369,Marcus Phillips,male,48,middle,Bronx,occasional,neutral
+RIDER_0370,Kai Johnson,non-binary,42,middle,Manhattan,new,critical
+RIDER_0371,Monique Roberts,female,22,young,Brooklyn,occasional,neutral
+RIDER_0372,Ines Evans,female,22,young,Staten Island,regular,neutral
+RIDER_0373,Maria Lee,female,29,young,Manhattan,regular,critical
+RIDER_0374,Samuel Brown,male,19,young,Bronx,new,neutral
+RIDER_0375,Jerome Wilson,male,27,young,Manhattan,regular,lenient
+RIDER_0376,Carlos Harris,male,40,middle,Queens,occasional,neutral
+RIDER_0377,Danielle Walker,female,44,middle,Manhattan,frequent,neutral
+RIDER_0378,Kevin Green,male,25,young,Manhattan,regular,critical
+RIDER_0379,Luis Hall,male,72,senior,Manhattan,regular,critical
+RIDER_0380,Dmitri Clark,male,22,young,Manhattan,regular,neutral
+RIDER_0381,Xiaoli Harris,female,56,senior,Bronx,frequent,critical
+RIDER_0382,Sarah Adams,female,72,senior,Manhattan,regular,neutral
+RIDER_0383,Michael Morris,male,20,young,Brooklyn,occasional,neutral
+RIDER_0384,Trevor Garcia,male,43,middle,Bronx,regular,critical
+RIDER_0385,Kwame Jackson,male,59,senior,Queens,occasional,critical
+RIDER_0386,Mei Reed,female,48,middle,Bronx,frequent,neutral
+RIDER_0387,Aisha Rogers,female,26,young,Manhattan,regular,neutral
+RIDER_0388,Maria White,female,28,young,Queens,occasional,lenient
+RIDER_0389,Ashley Murphy,female,63,senior,Manhattan,new,neutral
+RIDER_0390,Maria Phillips,female,65,senior,Manhattan,occasional,critical
+RIDER_0391,Elena White,female,34,middle,Manhattan,regular,neutral
+RIDER_0392,Yuki Adams,female,38,middle,Queens,occasional,critical
+RIDER_0393,Keisha Perez,female,44,middle,Manhattan,new,neutral
+RIDER_0394,Kevin Green 394,male,21,young,Brooklyn,occasional,neutral
+RIDER_0395,Aaliyah Reed,female,33,middle,Queens,frequent,lenient
+RIDER_0396,Sofia Rodriguez,female,61,senior,Staten Island,occasional,neutral
+RIDER_0397,Megan Turner,female,35,middle,Bronx,frequent,lenient
+RIDER_0398,Keisha Reed,female,68,senior,Manhattan,new,neutral
+RIDER_0399,Gabriela Robinson,female,20,young,Brooklyn,regular,neutral
+RIDER_0400,Fatima Roberts,female,66,senior,Manhattan,frequent,lenient
+RIDER_0401,Michael Ward,male,66,senior,Manhattan,regular,lenient
+RIDER_0402,Ethan Perez,male,66,senior,Queens,frequent,neutral
+RIDER_0403,Danielle Wright,female,62,senior,Queens,frequent,neutral
+RIDER_0404,Ashley Martinez,female,25,young,Brooklyn,regular,critical
+RIDER_0405,Tamika Collins,female,45,middle,Manhattan,occasional,critical
+RIDER_0406,Rosa Kim,female,63,senior,Manhattan,regular,lenient
+RIDER_0407,Brittany Rivera,female,31,middle,Queens,occasional,neutral
+RIDER_0408,Vincent Morgan,male,37,middle,Queens,frequent,lenient
+RIDER_0409,Andre Cook,male,58,senior,Queens,new,neutral
+RIDER_0410,Ines Cook,female,26,young,Queens,new,neutral
+RIDER_0411,David Allen,male,55,senior,Bronx,new,critical
+RIDER_0412,Hana Hill,female,40,middle,Brooklyn,occasional,lenient
+RIDER_0413,Sanjay Martinez,male,35,middle,Bronx,occasional,neutral
+RIDER_0414,Destiny Parker,female,22,young,Bronx,occasional,lenient
+RIDER_0415,Antonio Smith,male,41,middle,Bronx,regular,neutral
+RIDER_0416,Xiaoli Bell,female,26,young,Manhattan,regular,neutral
+RIDER_0417,Carmen Kim,female,24,young,Manhattan,new,neutral
+RIDER_0418,Samuel Young,male,29,young,Brooklyn,frequent,neutral
+RIDER_0419,Kiara Stewart,female,46,middle,Queens,occasional,neutral
+RIDER_0420,Ivan Hill,male,50,senior,Manhattan,regular,critical
+RIDER_0421,Hiroshi Sanchez,male,52,senior,Staten Island,regular,lenient
+RIDER_0422,Roberto Parker,male,27,young,Brooklyn,regular,lenient
+RIDER_0423,Svetlana Phillips,female,27,young,Manhattan,new,neutral
+RIDER_0424,Hana Reed 424,female,38,middle,Staten Island,regular,critical
+RIDER_0425,Aiden Green,male,23,young,Brooklyn,regular,neutral
+RIDER_0426,Abigail Bell,female,48,middle,Brooklyn,occasional,neutral
+RIDER_0427,Tariq Clark,male,41,middle,Manhattan,occasional,neutral
+RIDER_0428,Luis Rivera,male,32,middle,Manhattan,occasional,lenient
+RIDER_0429,Rosa Murphy,female,47,middle,Queens,occasional,neutral
+RIDER_0430,Wei Clark,male,29,young,Bronx,occasional,critical
+RIDER_0431,Tyler White,male,31,middle,Queens,occasional,critical
+RIDER_0432,Jerome Perez,male,34,middle,Queens,regular,critical
+RIDER_0433,Ananya Evans,female,20,young,Brooklyn,frequent,critical
+RIDER_0434,Danielle Hall,female,21,young,Manhattan,regular,critical
+RIDER_0435,Michael Baker,male,48,middle,Brooklyn,new,critical
+RIDER_0436,Luis Wilson,male,64,senior,Brooklyn,new,lenient
+RIDER_0437,Malik Thomas 437,male,66,senior,Queens,regular,lenient
+RIDER_0438,Kwame Morgan,male,22,young,Brooklyn,occasional,critical
+RIDER_0439,Yusuf Hall,male,40,middle,Bronx,occasional,neutral
+RIDER_0440,Svetlana Richardson,female,58,senior,Manhattan,regular,critical
+RIDER_0441,Vincent Collins,male,57,senior,Staten Island,frequent,lenient
+RIDER_0442,Nathan Mitchell,male,22,young,Queens,frequent,critical
+RIDER_0443,Jessica Nelson,female,30,middle,Bronx,occasional,lenient
+RIDER_0444,Ashley Lee,female,21,young,Brooklyn,frequent,neutral
+RIDER_0445,Diego Sanchez,male,62,senior,Queens,frequent,lenient
+RIDER_0446,Xiaoli Baker 446,female,46,middle,Brooklyn,occasional,neutral
+RIDER_0447,Darren Rogers,male,25,young,Manhattan,regular,neutral
+RIDER_0448,Rosa Collins,female,72,senior,Bronx,regular,neutral
+RIDER_0449,Aiden Parker,male,42,middle,Queens,regular,neutral
+RIDER_0450,Malik Scott,male,72,senior,Bronx,regular,critical
+RIDER_0451,Maria Lee 451,female,47,middle,Manhattan,occasional,critical
+RIDER_0452,Chloe Jackson,female,33,middle,Manhattan,occasional,neutral
+RIDER_0453,Monique Collins,female,19,young,Bronx,occasional,neutral
+RIDER_0454,Diego Robinson,male,18,young,Brooklyn,frequent,neutral
+RIDER_0455,Tamika Young,female,19,young,Brooklyn,regular,critical
+RIDER_0456,Aiden Mitchell 456,male,74,senior,Brooklyn,regular,critical
+RIDER_0457,Roberto Allen,male,44,middle,Staten Island,regular,neutral
+RIDER_0458,Abigail Morris,female,46,middle,Queens,regular,neutral
+RIDER_0459,Courtney Hall,female,39,middle,Manhattan,regular,critical
+RIDER_0460,Kwame Collins,male,28,young,Staten Island,occasional,neutral
+RIDER_0461,Jerome Clark,male,41,middle,Staten Island,frequent,neutral
+RIDER_0462,Ethan Harris,male,52,senior,Brooklyn,regular,neutral
+RIDER_0463,Omar Patel,male,26,young,Manhattan,occasional,neutral
+RIDER_0464,Ashley Walker,female,23,young,Brooklyn,new,lenient
+RIDER_0465,Keisha Morris,female,31,middle,Brooklyn,new,lenient
+RIDER_0466,Hana Rogers,female,61,senior,Brooklyn,occasional,lenient
+RIDER_0467,Ngozi Chen,female,20,young,Queens,occasional,critical
+RIDER_0468,Tanya Morris,female,27,young,Manhattan,regular,neutral
+RIDER_0469,Aiden Clark,male,27,young,Manhattan,occasional,neutral
+RIDER_0470,Tamika Rogers,female,28,young,Bronx,frequent,neutral
+RIDER_0471,Rachel Turner,female,45,middle,Queens,occasional,critical
+RIDER_0472,Jamal Kim,male,28,young,Brooklyn,regular,lenient
+RIDER_0473,Brian Lewis,male,26,young,Queens,occasional,neutral
+RIDER_0474,Omar Young,male,28,young,Queens,occasional,critical
+RIDER_0475,Ngozi Robinson,female,37,middle,Queens,occasional,neutral
+RIDER_0476,James Stewart,male,20,young,Queens,new,neutral
+RIDER_0477,Trevor Brown 477,male,29,young,Manhattan,new,critical
+RIDER_0478,Svetlana Williams 478,female,67,senior,Queens,occasional,critical
+RIDER_0479,Carlos Mitchell 479,male,36,middle,Manhattan,occasional,critical
+RIDER_0480,Chloe Collins,female,22,young,Brooklyn,new,lenient
+RIDER_0481,Yuki Campbell,female,64,senior,Bronx,regular,neutral
+RIDER_0482,Carmen Kim 482,female,47,middle,Queens,new,neutral
+RIDER_0483,James Perez,male,18,young,Staten Island,occasional,lenient
+RIDER_0484,Chloe Adams,female,34,middle,Queens,new,critical
+RIDER_0485,Nadia Scott,female,20,young,Manhattan,regular,lenient
+RIDER_0486,Antonio Wilson,male,65,senior,Staten Island,occasional,neutral
+RIDER_0487,Priya Harris,female,21,young,Staten Island,new,neutral
+RIDER_0488,Rowan Patel,non-binary,40,middle,Brooklyn,new,lenient
+RIDER_0489,Mohammed Wright,male,23,young,Manhattan,occasional,critical
+RIDER_0490,Carmen Martinez,female,70,senior,Staten Island,new,neutral
+RIDER_0491,Ines Campbell,female,33,middle,Manhattan,occasional,neutral
+RIDER_0492,Carlos Davis,male,41,middle,Manhattan,frequent,neutral
+RIDER_0493,Elena Morgan,female,28,young,Manhattan,occasional,lenient
+RIDER_0494,Ines Robinson,female,71,senior,Brooklyn,frequent,neutral
+RIDER_0495,Sarah White,female,26,young,Manhattan,new,critical
+RIDER_0496,Keisha Mitchell,female,36,middle,Brooklyn,regular,critical
+RIDER_0497,Xiaoli Turner,female,63,senior,Queens,new,neutral
+RIDER_0498,Megan Cook,female,30,middle,Manhattan,regular,critical
+RIDER_0499,Alex Jackson,male,40,middle,Queens,regular,critical
+RIDER_0500,Roberto King,male,38,middle,Staten Island,occasional,neutral
+RIDER_0501,Zara Howard,female,48,middle,Manhattan,regular,critical
+RIDER_0502,Zara Robinson,female,70,senior,Queens,occasional,critical
+RIDER_0503,Tamika Hill 503,female,25,young,Manhattan,regular,critical
+RIDER_0504,Ethan Perez 504,male,21,young,Manhattan,new,neutral
+RIDER_0505,Alex Garcia,male,53,senior,Queens,occasional,neutral
+RIDER_0506,Alex Morris,male,72,senior,Manhattan,regular,critical
+RIDER_0507,Raj Rogers,male,38,middle,Manhattan,regular,neutral
+RIDER_0508,Kevin Campbell,male,56,senior,Manhattan,frequent,neutral
+RIDER_0509,Tanya Harris,female,21,young,Staten Island,regular,neutral
+RIDER_0510,Sarah Rodriguez,female,72,senior,Queens,new,critical
+RIDER_0511,Diego Wilson,male,26,young,Brooklyn,new,critical
+RIDER_0512,Kai Martinez,non-binary,37,middle,Queens,frequent,neutral
+RIDER_0513,Gabriela Smith,female,26,young,Manhattan,occasional,neutral
+RIDER_0514,Patrick Scott,male,64,senior,Queens,occasional,lenient
+RIDER_0515,Megan Adams,female,33,middle,Staten Island,regular,lenient
+RIDER_0516,Jamal Williams,male,23,young,Staten Island,occasional,neutral
+RIDER_0517,Lakshmi Lewis,female,28,young,Manhattan,frequent,lenient
+RIDER_0518,Chloe Collins 518,female,18,young,Queens,occasional,neutral
+RIDER_0519,Kiara Martinez,female,32,middle,Brooklyn,occasional,neutral
+RIDER_0520,Lakshmi Ward,female,28,young,Bronx,frequent,neutral
+RIDER_0521,Quinn Cook,non-binary,33,middle,Brooklyn,occasional,neutral
+RIDER_0522,Tamika Evans,female,30,middle,Manhattan,regular,lenient
+RIDER_0523,Casey Hill,non-binary,48,middle,Brooklyn,frequent,critical
+RIDER_0524,Andre Carter,male,24,young,Manhattan,occasional,neutral
+RIDER_0525,Omar Parker,male,24,young,Brooklyn,occasional,critical
+RIDER_0526,Ivan Howard,male,30,middle,Brooklyn,regular,neutral
+RIDER_0527,Nathan Bell,male,30,middle,Brooklyn,new,neutral
+RIDER_0528,Ivan Martinez,male,19,young,Brooklyn,occasional,neutral
+RIDER_0529,Carlos Rodriguez 529,male,21,young,Staten Island,occasional,neutral
+RIDER_0530,Ethan Turner,male,49,middle,Manhattan,regular,neutral
+RIDER_0531,Dakota Howard,non-binary,27,young,Manhattan,new,lenient
+RIDER_0532,Jamal Scott,male,49,middle,Brooklyn,regular,neutral
+RIDER_0533,Andre Green 533,male,26,young,Queens,occasional,neutral
+RIDER_0534,Brittany Collins,female,24,young,Manhattan,frequent,critical
+RIDER_0535,Hassan Clark,male,29,young,Brooklyn,frequent,neutral
+RIDER_0536,Destiny Carter,female,35,middle,Manhattan,occasional,neutral
+RIDER_0537,Carmen Scott,female,21,young,Manhattan,frequent,lenient
+RIDER_0538,Wei Turner,male,44,middle,Manhattan,new,lenient
+RIDER_0539,Aisha Richardson,female,42,middle,Brooklyn,frequent,neutral
+RIDER_0540,Samuel Morris,male,30,middle,Manhattan,occasional,neutral
+RIDER_0541,Jasmine Turner,female,23,young,Manhattan,frequent,neutral
+RIDER_0542,Yusuf Johnson,male,44,middle,Manhattan,regular,neutral
+RIDER_0543,Wei Jackson,male,46,middle,Brooklyn,occasional,neutral
+RIDER_0544,Kofi Roberts,male,44,middle,Queens,frequent,lenient
+RIDER_0545,Michael Rogers,male,19,young,Manhattan,regular,neutral
+RIDER_0546,Svetlana Perez,female,47,middle,Brooklyn,regular,critical
+RIDER_0547,David Rogers,male,42,middle,Queens,regular,neutral
+RIDER_0548,Hiroshi Adams,male,57,senior,Manhattan,regular,critical
+RIDER_0549,Rachel Parker,female,46,middle,Bronx,new,critical
+RIDER_0550,Tyler Howard,male,31,middle,Queens,regular,neutral
+RIDER_0551,Nathan Wilson,male,40,middle,Staten Island,frequent,critical
+RIDER_0552,Tariq Hill 552,male,42,middle,Manhattan,occasional,lenient
+RIDER_0553,Carmen Lee 553,female,64,senior,Manhattan,occasional,lenient
+RIDER_0554,Aiden Allen,male,70,senior,Manhattan,frequent,lenient
+RIDER_0555,Xiaoli Hall,female,62,senior,Bronx,regular,critical
+RIDER_0556,Luis Evans,male,73,senior,Brooklyn,regular,neutral
+RIDER_0557,Raj Rivera,male,62,senior,Manhattan,new,critical
+RIDER_0558,Tomás Hall,male,27,young,Manhattan,regular,neutral
+RIDER_0559,Xiaoli Collins,female,20,young,Manhattan,occasional,critical
+RIDER_0560,Carmen Lewis,female,20,young,Brooklyn,frequent,neutral
+RIDER_0561,Hassan Bell,male,43,middle,Brooklyn,regular,neutral
+RIDER_0562,Courtney Williams,female,54,senior,Queens,occasional,lenient
+RIDER_0563,Jerome Lee,male,28,young,Queens,new,lenient
+RIDER_0564,Jasmine Harris,female,31,middle,Brooklyn,occasional,lenient
+RIDER_0565,Luis Patel,male,20,young,Manhattan,occasional,neutral
+RIDER_0566,Sage Cooper,non-binary,30,middle,Brooklyn,occasional,neutral
+RIDER_0567,Destiny Bell,female,19,young,Manhattan,occasional,neutral
+RIDER_0568,James Evans,male,65,senior,Queens,frequent,neutral
+RIDER_0569,Trevor Green,male,36,middle,Manhattan,occasional,neutral
+RIDER_0570,Xiaoli Garcia,female,50,senior,Manhattan,occasional,lenient
+RIDER_0571,Brian Nelson,male,40,middle,Queens,regular,lenient
+RIDER_0572,Sofia Phillips,female,30,middle,Brooklyn,new,lenient
+RIDER_0573,Malik Campbell,male,24,young,Brooklyn,regular,critical
+RIDER_0574,Zara Rogers,female,43,middle,Brooklyn,occasional,critical
+RIDER_0575,Carlos Thomas,male,23,young,Brooklyn,regular,neutral
+RIDER_0576,Svetlana Mitchell,female,46,middle,Manhattan,regular,critical
+RIDER_0577,Marcus Ward,male,59,senior,Manhattan,regular,neutral
+RIDER_0578,Jamal Scott 578,male,21,young,Brooklyn,occasional,neutral
+RIDER_0579,Carmen Patel,female,28,young,Bronx,occasional,neutral
+RIDER_0580,Maria Campbell,female,25,young,Brooklyn,frequent,critical
+RIDER_0581,Megan Morgan,female,42,middle,Brooklyn,occasional,critical
+RIDER_0582,Diego Stewart,male,29,young,Queens,regular,lenient
+RIDER_0583,Gabriela Robinson 583,female,46,middle,Manhattan,occasional,neutral
+RIDER_0584,Courtney Smith,female,70,senior,Queens,regular,neutral
+RIDER_0585,Courtney Lopez,female,25,young,Brooklyn,regular,neutral
+RIDER_0586,Sarah Jackson,female,59,senior,Brooklyn,regular,lenient
+RIDER_0587,Keisha Green,female,27,young,Brooklyn,new,neutral
+RIDER_0588,Keisha Parker,female,32,middle,Staten Island,occasional,neutral
+RIDER_0589,Ivan Baker,male,27,young,Manhattan,occasional,critical
+RIDER_0590,Jamal Gonzalez,male,44,middle,Queens,occasional,lenient
+RIDER_0591,Nathan Lopez,male,41,middle,Manhattan,regular,neutral
+RIDER_0592,Aiden Adams,male,32,middle,Bronx,occasional,critical
+RIDER_0593,Rosa Green,female,43,middle,Bronx,regular,critical
+RIDER_0594,Kai Davis,non-binary,51,senior,Queens,occasional,neutral
+RIDER_0595,Sage Chen,non-binary,61,senior,Manhattan,occasional,critical
+RIDER_0596,Megan Gonzalez,female,52,senior,Brooklyn,regular,neutral
+RIDER_0597,Riley Cooper,non-binary,70,senior,Queens,occasional,neutral
+RIDER_0598,Mei Clark,female,23,young,Manhattan,new,neutral
+RIDER_0599,Patrick Hall,male,28,young,Manhattan,new,neutral
+RIDER_0600,Chen Clark,male,21,young,Staten Island,occasional,neutral
+RIDER_0601,Jessica Lewis,female,21,young,Brooklyn,new,neutral
+RIDER_0602,Ethan Murphy,male,34,middle,Staten Island,new,neutral
+RIDER_0603,Tamika Roberts,female,43,middle,Manhattan,regular,neutral
+RIDER_0604,Carmen Cooper,female,24,young,Staten Island,occasional,lenient
+RIDER_0605,Elena Scott,female,71,senior,Manhattan,regular,neutral
+RIDER_0606,Hana Adams,female,29,young,Manhattan,occasional,neutral
+RIDER_0607,Amara Hall,female,19,young,Queens,occasional,neutral
+RIDER_0608,Courtney Rogers,female,55,senior,Brooklyn,regular,neutral
+RIDER_0609,Trevor King,male,35,middle,Queens,frequent,neutral
+RIDER_0610,Jerome Ward,male,49,middle,Manhattan,regular,lenient
+RIDER_0611,Jasmine Cooper,female,65,senior,Queens,occasional,neutral
+RIDER_0612,Casey Collins,non-binary,38,middle,Staten Island,frequent,critical
+RIDER_0613,Rosa Perez,female,57,senior,Staten Island,occasional,lenient
+RIDER_0614,Dmitri Jackson,male,41,middle,Bronx,new,critical
+RIDER_0615,Patrick Williams,male,19,young,Brooklyn,regular,neutral
+RIDER_0616,Luis Morris,male,69,senior,Brooklyn,occasional,critical
+RIDER_0617,Aiden Stewart,male,29,young,Manhattan,occasional,neutral
+RIDER_0618,Dmitri King,male,29,young,Bronx,regular,neutral
+RIDER_0619,Ivan Baker 619,male,71,senior,Bronx,occasional,lenient
+RIDER_0620,Jordan Brown,non-binary,23,young,Brooklyn,regular,neutral
+RIDER_0621,Destiny Roberts,female,23,young,Queens,regular,neutral
+RIDER_0622,Antonio Cooper,male,24,young,Manhattan,regular,neutral
+RIDER_0623,Fatima Cooper,female,25,young,Brooklyn,regular,neutral
+RIDER_0624,Zara Kim,female,66,senior,Bronx,regular,neutral
+RIDER_0625,Rachel Howard,female,58,senior,Staten Island,frequent,neutral
+RIDER_0626,Jerome Smith,male,41,middle,Brooklyn,occasional,neutral
+RIDER_0627,Elena Lopez,female,36,middle,Brooklyn,occasional,lenient
+RIDER_0628,Ivan Martinez 628,male,54,senior,Brooklyn,occasional,neutral
+RIDER_0629,Nadia Cook,female,36,middle,Staten Island,occasional,neutral
+RIDER_0630,Yusuf Hall 630,male,70,senior,Manhattan,regular,lenient
+RIDER_0631,Ananya Collins,female,23,young,Staten Island,occasional,lenient
+RIDER_0632,Hassan Parker,male,32,middle,Bronx,regular,neutral
+RIDER_0633,Sarah Rivera,female,21,young,Queens,regular,lenient
+RIDER_0634,Linda Rivera,female,23,young,Queens,occasional,neutral
+RIDER_0635,Trevor King 635,male,18,young,Manhattan,regular,neutral
+RIDER_0636,Luis Campbell,male,47,middle,Staten Island,new,neutral
+RIDER_0637,Carmen Cooper 637,female,42,middle,Brooklyn,regular,critical
+RIDER_0638,Trevor Williams,male,47,middle,Brooklyn,occasional,critical
+RIDER_0639,Alex Martinez,male,47,middle,Manhattan,frequent,lenient
+RIDER_0640,Diego Campbell,male,49,middle,Queens,regular,critical
+RIDER_0641,Jamal Jackson,male,30,middle,Bronx,new,critical
+RIDER_0642,Sarah Hill,female,45,middle,Manhattan,frequent,neutral
+RIDER_0643,Raj Rogers 643,male,37,middle,Staten Island,occasional,neutral
+RIDER_0644,Raj Scott,male,24,young,Manhattan,occasional,lenient
+RIDER_0645,Gabriela Collins 645,female,35,middle,Brooklyn,regular,neutral
+RIDER_0646,Ethan Cox,male,18,young,Manhattan,regular,lenient
+RIDER_0647,Jordan Williams,non-binary,48,middle,Queens,occasional,neutral
+RIDER_0648,Luis Cook,male,23,young,Staten Island,new,neutral
+RIDER_0649,Carlos Lewis,male,27,young,Brooklyn,occasional,neutral
+RIDER_0650,Kwame Young,male,48,middle,Manhattan,regular,lenient
+RIDER_0651,Samuel Davis,male,19,young,Staten Island,occasional,critical
+RIDER_0652,Rosa Nelson,female,35,middle,Manhattan,frequent,lenient
+RIDER_0653,Xiaoli Perez,female,26,young,Bronx,regular,lenient
+RIDER_0654,Hiroshi Rodriguez,male,69,senior,Queens,occasional,critical
+RIDER_0655,Ngozi Lee,female,45,middle,Queens,regular,critical
+RIDER_0656,Alex Cooper,male,47,middle,Bronx,new,neutral
+RIDER_0657,Danielle Phillips,female,26,young,Queens,new,neutral
+RIDER_0658,Rosa Baker,female,70,senior,Queens,occasional,neutral
+RIDER_0659,Tamika Davis,female,21,young,Queens,occasional,neutral
+RIDER_0660,Omar Green,male,28,young,Manhattan,occasional,neutral
+RIDER_0661,Aaliyah Green,female,71,senior,Brooklyn,occasional,neutral
+RIDER_0662,Aaliyah Evans,female,57,senior,Bronx,occasional,lenient
+RIDER_0663,Jessica Cox,female,42,middle,Brooklyn,regular,critical
+RIDER_0664,Kiara Cox,female,48,middle,Queens,occasional,lenient
+RIDER_0665,Jamal Edwards,male,38,middle,Manhattan,occasional,lenient
+RIDER_0666,Trevor Rodriguez,male,26,young,Queens,regular,lenient
+RIDER_0667,Mei Scott,female,27,young,Brooklyn,occasional,critical
+RIDER_0668,Kwame Roberts,male,25,young,Manhattan,frequent,neutral
+RIDER_0669,Ethan Campbell,male,65,senior,Brooklyn,occasional,lenient
+RIDER_0670,Samuel Collins,male,71,senior,Queens,occasional,neutral
+RIDER_0671,Yusuf Green,male,22,young,Staten Island,occasional,neutral
+RIDER_0672,Ethan Chen,male,49,middle,Manhattan,occasional,neutral
+RIDER_0673,Dmitri Rivera,male,63,senior,Manhattan,regular,lenient
+RIDER_0674,Nadia Kim,female,61,senior,Queens,occasional,lenient
+RIDER_0675,Rosa King,female,61,senior,Bronx,occasional,neutral
+RIDER_0676,Kofi Allen,male,21,young,Brooklyn,occasional,neutral
+RIDER_0677,Kofi Lewis,male,21,young,Brooklyn,frequent,critical
+RIDER_0678,Jamal Johnson,male,19,young,Brooklyn,regular,neutral
+RIDER_0679,Monique Clark,female,62,senior,Bronx,frequent,neutral
+RIDER_0680,James Perez 680,male,20,young,Manhattan,regular,lenient
+RIDER_0681,Priya Howard,female,19,young,Bronx,frequent,critical
+RIDER_0682,Megan Morris,female,63,senior,Manhattan,occasional,neutral
+RIDER_0683,Malik Murphy,male,27,young,Brooklyn,regular,neutral
+RIDER_0684,Jamal Reed,male,20,young,Bronx,occasional,neutral
+RIDER_0685,Omar Turner,male,20,young,Manhattan,occasional,critical
+RIDER_0686,Amara Jackson,female,45,middle,Queens,regular,critical
+RIDER_0687,Casey Phillips,non-binary,18,young,Brooklyn,regular,lenient
+RIDER_0688,Yusuf Edwards,male,54,senior,Manhattan,occasional,neutral
+RIDER_0689,Marcus Campbell 689,male,26,young,Queens,occasional,neutral
+RIDER_0690,Raj Cox,male,74,senior,Queens,occasional,lenient
+RIDER_0691,David Robinson,male,22,young,Staten Island,regular,neutral
+RIDER_0692,Tyler Williams,male,26,young,Brooklyn,frequent,lenient
+RIDER_0693,Tamika Young 693,female,22,young,Queens,new,critical
+RIDER_0694,Marcus Lee,male,27,young,Brooklyn,regular,critical
+RIDER_0695,Chloe Walker,female,28,young,Brooklyn,occasional,lenient
+RIDER_0696,Xiaoli Wilson,female,29,young,Brooklyn,occasional,critical
+RIDER_0697,Brian Brown,male,22,young,Manhattan,frequent,lenient
+RIDER_0698,Trevor Richardson,male,34,middle,Manhattan,regular,critical
+RIDER_0699,Sanjay Nelson,male,34,middle,Queens,regular,neutral
+RIDER_0700,Destiny Howard,female,22,young,Bronx,occasional,lenient
+RIDER_0701,Nathan Murphy,male,21,young,Brooklyn,frequent,lenient
+RIDER_0702,Gabriela Harris,female,48,middle,Queens,regular,neutral
+RIDER_0703,Aiden Morgan,male,69,senior,Manhattan,frequent,lenient
+RIDER_0704,Chloe Morris,female,64,senior,Bronx,occasional,critical
+RIDER_0705,Antonio Morgan,male,28,young,Brooklyn,occasional,neutral
+RIDER_0706,Andre Green 706,male,59,senior,Brooklyn,frequent,lenient
+RIDER_0707,Mohammed Davis,male,48,middle,Staten Island,occasional,neutral
+RIDER_0708,Omar Cooper,male,46,middle,Brooklyn,occasional,lenient
+RIDER_0709,Hassan Rivera,male,28,young,Brooklyn,occasional,lenient
+RIDER_0710,Courtney Young,female,18,young,Brooklyn,regular,neutral
+RIDER_0711,Sarah Cook,female,39,middle,Bronx,frequent,lenient
+RIDER_0712,Sage Smith,non-binary,42,middle,Manhattan,regular,critical
+RIDER_0713,Aaliyah Carter,female,31,middle,Brooklyn,regular,neutral
+RIDER_0714,Keisha Green 714,female,29,young,Staten Island,regular,neutral
+RIDER_0715,Sofia Edwards,female,23,young,Manhattan,occasional,critical
+RIDER_0716,Yusuf Roberts,male,31,middle,Manhattan,occasional,neutral
+RIDER_0717,Dmitri Bell,male,27,young,Manhattan,regular,lenient
+RIDER_0718,Sofia Kim,female,33,middle,Manhattan,regular,neutral
+RIDER_0719,Casey Adams,non-binary,29,young,Brooklyn,regular,lenient
+RIDER_0720,Michael Phillips,male,34,middle,Queens,regular,critical
+RIDER_0721,Darren Walker,male,21,young,Staten Island,occasional,critical
+RIDER_0722,Dakota Jackson,non-binary,30,middle,Bronx,occasional,neutral
+RIDER_0723,Mohammed Campbell,male,45,middle,Manhattan,occasional,neutral
+RIDER_0724,Kiara Howard,female,23,young,Queens,new,critical
+RIDER_0725,Ethan Parker,male,29,young,Staten Island,regular,neutral
+RIDER_0726,Patrick Patel,male,72,senior,Queens,occasional,lenient
+RIDER_0727,Marcus Williams,male,46,middle,Brooklyn,frequent,lenient
+RIDER_0728,Aisha Robinson 728,female,69,senior,Brooklyn,occasional,lenient
+RIDER_0729,Carmen Patel 729,female,22,young,Brooklyn,regular,lenient
+RIDER_0730,Raj White 730,male,28,young,Bronx,new,neutral
+RIDER_0731,Trevor Brown 731,male,21,young,Brooklyn,occasional,neutral
+RIDER_0732,Dmitri Green,male,49,middle,Queens,regular,lenient
+RIDER_0733,Sofia Evans,female,28,young,Manhattan,occasional,neutral
+RIDER_0734,Hana Lopez 734,female,48,middle,Queens,occasional,lenient
+RIDER_0735,Tariq Morris 735,male,21,young,Brooklyn,occasional,lenient
+RIDER_0736,Ivan Richardson,male,45,middle,Manhattan,regular,neutral
+RIDER_0737,Xiaoli Parker,female,45,middle,Manhattan,occasional,neutral
+RIDER_0738,Raj Murphy,male,40,middle,Manhattan,regular,neutral
+RIDER_0739,Malik Phillips,male,27,young,Manhattan,new,neutral
+RIDER_0740,Patrick Clark,male,56,senior,Queens,regular,lenient
+RIDER_0741,Aisha Collins,female,40,middle,Staten Island,occasional,neutral
+RIDER_0742,Sofia Thomas,female,71,senior,Manhattan,new,neutral
+RIDER_0743,Zara Scott,female,40,middle,Brooklyn,occasional,critical
+RIDER_0744,Diego Rivera,male,48,middle,Manhattan,regular,lenient
+RIDER_0745,Sofia Kim 745,female,21,young,Brooklyn,frequent,critical
+RIDER_0746,Sanjay Carter,male,22,young,Brooklyn,occasional,lenient
+RIDER_0747,Amara Garcia,female,71,senior,Manhattan,regular,lenient
+RIDER_0748,Hassan Clark 748,male,47,middle,Brooklyn,regular,lenient
+RIDER_0749,Brian Patel,male,18,young,Queens,occasional,lenient
+RIDER_0750,Jerome Lee 750,male,20,young,Manhattan,regular,neutral
+RIDER_0751,Tanya Parker,female,43,middle,Manhattan,regular,critical
+RIDER_0752,Megan Johnson,female,53,senior,Queens,occasional,neutral
+RIDER_0753,Carlos Cook,male,40,middle,Queens,new,neutral
+RIDER_0754,Antonio White,male,18,young,Manhattan,new,neutral
+RIDER_0755,Marcus Cook,male,48,middle,Brooklyn,occasional,critical
+RIDER_0756,Ines Thomas,female,34,middle,Queens,occasional,neutral
+RIDER_0757,Mei Murphy,female,18,young,Brooklyn,regular,neutral
+RIDER_0758,Darren Thomas,male,19,young,Brooklyn,new,neutral
+RIDER_0759,Tariq Thomas,male,40,middle,Bronx,occasional,neutral
+RIDER_0760,Lakshmi Hall,female,41,middle,Staten Island,regular,neutral
+RIDER_0761,Ivan Cook,male,24,young,Queens,regular,neutral
+RIDER_0762,Megan Smith,female,22,young,Queens,occasional,neutral
+RIDER_0763,Nathan Rivera,male,44,middle,Queens,frequent,lenient
+RIDER_0764,Elena Brown,female,20,young,Manhattan,regular,neutral
+RIDER_0765,Hana Harris,female,24,young,Manhattan,regular,lenient
+RIDER_0766,Hiroshi Patel,male,45,middle,Brooklyn,new,neutral
+RIDER_0767,Jordan Brown 767,non-binary,24,young,Manhattan,regular,neutral
+RIDER_0768,Jessica Allen,female,28,young,Brooklyn,regular,neutral
+RIDER_0769,Rosa Roberts,female,63,senior,Brooklyn,regular,neutral
+RIDER_0770,Avery Johnson,non-binary,40,middle,Manhattan,new,lenient
+RIDER_0771,Hiroshi Harris,male,48,middle,Manhattan,occasional,neutral
+RIDER_0772,Priya Brown,female,33,middle,Manhattan,frequent,critical
+RIDER_0773,Xiaoli Nelson,female,45,middle,Manhattan,regular,lenient
+RIDER_0774,Andre Morris,male,47,middle,Queens,occasional,neutral
+RIDER_0775,Mei Adams,female,19,young,Queens,occasional,critical
+RIDER_0776,Tyler Reed,male,43,middle,Bronx,regular,neutral
+RIDER_0777,Sanjay Gonzalez,male,72,senior,Manhattan,regular,critical
+RIDER_0778,Tariq Kim,male,30,middle,Bronx,occasional,critical
+RIDER_0779,Tyler Gonzalez,male,31,middle,Queens,regular,neutral
+RIDER_0780,Lakshmi Phillips,female,45,middle,Queens,occasional,critical
+RIDER_0781,David Sanchez 781,male,37,middle,Manhattan,regular,neutral
+RIDER_0782,Roberto Robinson,male,40,middle,Brooklyn,regular,neutral
+RIDER_0783,Kiara Parker,female,26,young,Manhattan,regular,lenient
+RIDER_0784,Michael Garcia,male,68,senior,Brooklyn,occasional,neutral
+RIDER_0785,Aiden Rivera,male,42,middle,Brooklyn,regular,neutral
+RIDER_0786,Hassan Hill,male,49,middle,Manhattan,regular,neutral
+RIDER_0787,Fatima Baker,female,19,young,Brooklyn,new,lenient
+RIDER_0788,Tyler Martinez,male,19,young,Staten Island,regular,neutral
+RIDER_0789,Wei Walker,male,46,middle,Brooklyn,frequent,neutral
+RIDER_0790,Megan Davis,female,18,young,Bronx,occasional,critical
+RIDER_0791,Mei Brown,female,68,senior,Queens,regular,neutral
+RIDER_0792,Nathan Phillips,male,29,young,Queens,regular,neutral
+RIDER_0793,Tamika Mitchell,female,35,middle,Queens,frequent,lenient
+RIDER_0794,Luis King,male,49,middle,Brooklyn,frequent,neutral
+RIDER_0795,Megan Nelson,female,25,young,Queens,occasional,critical
+RIDER_0796,Jamal Green,male,21,young,Queens,occasional,critical
+RIDER_0797,Destiny Turner 797,female,53,senior,Staten Island,occasional,neutral
+RIDER_0798,Abigail Kim,female,26,young,Manhattan,frequent,critical
+RIDER_0799,Andre Rivera,male,29,young,Brooklyn,new,lenient

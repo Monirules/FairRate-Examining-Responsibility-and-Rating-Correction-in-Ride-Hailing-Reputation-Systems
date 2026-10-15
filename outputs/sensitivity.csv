@@ -1,0 +1,93 @@
+Parameter,Value,MAE
+alpha (review weight),0.0,0.24521472833797298
+alpha (review weight),0.1,0.2435780405466686
+alpha (review weight),0.2,0.24367536250858376
+alpha (review weight),0.3,0.2453905705017658
+alpha (review weight),0.4,0.2486561907631186
+alpha (review weight),0.5,0.2537664007674002
+alpha (review weight),0.6,0.2606126791888103
+alpha (review weight),0.7,0.26915504182717875
+alpha (review weight),0.8,0.2790262232780157
+alpha (review weight),0.9,0.2901572210596618
+alpha (review weight),1.0,0.3025122075864844
+alpha (review weight),1.1,0.3157805782409658
+alpha (review weight),1.2,0.3298278477125969
+alpha (review weight),1.3,0.3446026697780026
+alpha (review weight),1.4,0.35994909692425847
+alpha (review weight),1.5,0.37581284767553386
+alpha (review weight),1.6,0.3921229291701149
+alpha (review weight),1.7,0.40888724657539616
+alpha (review weight),1.8,0.42598851539044275
+alpha (review weight),1.9,0.4433849548980609
+alpha (review weight),2.0,0.4609719490456116
+beta (reliability weight),0.0,0.24704490652187372
+beta (reliability weight),0.1,0.2459216167851487
+beta (reliability weight),0.2,0.24507911111274064
+beta (reliability weight),0.3,0.24441597912957588
+beta (reliability weight),0.4,0.2439693886251403
+beta (reliability weight),0.5,0.24371992118863195
+beta (reliability weight),0.6,0.24367536250858376
+beta (reliability weight),0.7,0.2438265436622538
+beta (reliability weight),0.8,0.24418805734245513
+beta (reliability weight),0.9,0.24473307822519405
+beta (reliability weight),1.0,0.24542039479286343
+beta (reliability weight),1.1,0.2462895484555133
+beta (reliability weight),1.2,0.24734247631008754
+beta (reliability weight),1.3,0.24857210040175462
+beta (reliability weight),1.4,0.24995503618835863
+beta (reliability weight),1.5,0.2515143547136887
+beta (reliability weight),1.6,0.2532228057962164
+beta (reliability weight),1.7,0.25510381440348
+beta (reliability weight),1.8,0.2571426523013759
+beta (reliability weight),1.9,0.25930075839666805
+beta (reliability weight),2.0,0.2615942212309206
+gamma (telemetry weight),0.0,0.25169802519333695
+gamma (telemetry weight),0.1,0.24975743205895612
+gamma (telemetry weight),0.2,0.24804984119210624
+gamma (telemetry weight),0.3,0.24660369077643837
+gamma (telemetry weight),0.4,0.24543112369865006
+gamma (telemetry weight),0.5,0.24455466493370778
+gamma (telemetry weight),0.6,0.24399629745595677
+gamma (telemetry weight),0.7,0.24370306508708892
+gamma (telemetry weight),0.8,0.24367536250858376
+gamma (telemetry weight),0.9,0.2439079345649639
+gamma (telemetry weight),1.0,0.24443722431825274
+gamma (telemetry weight),1.1,0.24519714844968454
+gamma (telemetry weight),1.2,0.24621483657657964
+gamma (telemetry weight),1.3,0.24751004709943106
+gamma (telemetry weight),1.4,0.24910933258539902
+gamma (telemetry weight),1.5,0.2509937759300913
+gamma (telemetry weight),1.6,0.25314309344267244
+gamma (telemetry weight),1.7,0.25561471109941497
+gamma (telemetry weight),1.8,0.2583729669150797
+gamma (telemetry weight),1.9,0.2613842161954971
+gamma (telemetry weight),2.0,0.26465315656518207
+tau (tanh temperature),0.2,0.25692868355123716
+tau (tanh temperature),0.4,0.24856026656935956
+tau (tanh temperature),0.6,0.24539273671009476
+tau (tanh temperature),0.8,0.2441708475320069
+tau (tanh temperature),1.0,0.24367536250858376
+tau (tanh temperature),1.2,0.24345656570896332
+tau (tanh temperature),1.4,0.24334434173730682
+tau (tanh temperature),1.6,0.2432840540977649
+tau (tanh temperature),1.8,0.24324543154820633
+tau (tanh temperature),2.0,0.24322360704938975
+tau (tanh temperature),2.2,0.2432129730460642
+tau (tanh temperature),2.4,0.24320558835054976
+tau (tanh temperature),2.6,0.2432019844089348
+tau (tanh temperature),2.8,0.24319963170027453
+tau (tanh temperature),3.0,0.24319814606451226
+max correction,0.3,0.24536826781555862
+max correction,0.5,0.24359117217140802
+max correction,0.7,0.2436726705862089
+max correction,0.9,0.24367536250858376
+max correction,1.1,0.24367536250858376
+max correction,1.3,0.24367536250858376
+max correction,1.5,0.24367536250858376
+max correction,1.7,0.24367536250858376
+max correction,1.9,0.24367536250858376
+max correction,2.1,0.24367536250858376
+max correction,2.3,0.24367536250858376
+max correction,2.5,0.24367536250858376
+max correction,2.7,0.24367536250858376
+max correction,2.9,0.24367536250858376
